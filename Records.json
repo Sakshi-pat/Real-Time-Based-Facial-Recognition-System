@@ -1,0 +1,19 @@
+{
+    "Face_records": [
+        {
+            "Name": "Abhishek",
+            "Age": "20",
+            "Sex": "Male"
+        },
+        {
+            "Name": "Gayatri",
+            "Age": "17",
+            "Sex": "Female"
+        },
+        {
+            "Name": "Sonu",
+            "Age": "20",
+            "Sex": "Male"
+        }
+    ]
+}
